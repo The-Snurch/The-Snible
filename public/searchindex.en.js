@@ -17,8 +17,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "welcome to the Snible this is where you will soon find the holy scripture of the Snurch",
-    "description": "welcome to the Snible this is where you will soon find the holy scripture of the Snurch",
+    "content": "this is where you will soon find the holy scripture of the Snurch",
+    "description": "this is where you will soon find the holy scripture of the Snurch",
     "tags": [],
     "title": "The snible",
     "uri": "/index.html"

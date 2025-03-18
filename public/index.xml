@@ -3,7 +3,7 @@
   <channel>
     <title>The snible :: My New Hugo Site</title>
     <link>http://localhost:1313/index.html</link>
-    <description>welcome to the Snible this is where you will soon find the holy scripture of the Snurch</description>
+    <description>this is where you will soon find the holy scripture of the Snurch</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
